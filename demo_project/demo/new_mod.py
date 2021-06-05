@@ -3,5 +3,5 @@ def the_best_always(name: str)-> str:
 
 
 
-    if __name__ == "__main++":
+    if __name__ == "__main__":
         print('ST is better')
